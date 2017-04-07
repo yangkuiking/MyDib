@@ -1,2 +1,2 @@
 # MyDib
-简单的bmp图片操作类
+A class can be used to operate images in bmp format.
